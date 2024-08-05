@@ -3,12 +3,32 @@
     <title>Lunatica</title>
     <link href="https://corinnabulter.github.io/Lunatica/feed.xml" rel="self" />
     <link href="https://corinnabulter.github.io/Lunatica" />
-    <updated>2024-08-05T17:06:06+02:00</updated>
+    <updated>2024-08-05T23:48:42+02:00</updated>
     <author>
         <name>Lunática</name>
     </author>
     <id>https://corinnabulter.github.io/Lunatica</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Lunática</name>
+        </author>
+        <link href="https://corinnabulter.github.io/Lunatica/test.html"/>
+        <id>https://corinnabulter.github.io/Lunatica/test.html</id>
+
+        <updated>2024-08-05T23:48:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    lalalala
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lalalala</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Deutschesprachelängezusammengesetztewörtereffizienzpraxisparadox, o sobre la paradoja de la efiencia del Lenguaje Alemán</title>
         <author>
