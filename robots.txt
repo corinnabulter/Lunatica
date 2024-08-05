@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://corinnabulter.github.io/Lunatica/sitemap.xml
