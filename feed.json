@@ -1,0 +1,45 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lunatica",
+    "description": "",
+    "home_page_url": "https://lunati.ca",
+    "feed_url": "https://lunati.ca/feed.json",
+    "user_comment": "",
+    "icon": "https://lunati.ca/media/website/Test_Logo.png",
+    "author": {
+        "name": "Lunática"
+    },
+    "items": [
+        {
+            "id": "https://lunati.ca/home/",
+            "url": "https://lunati.ca/home/",
+            "title": "Lunatica",
+            "summary": "Un pedacito de la Luna desciende y se posa ante tus ojos polvo cósmico que decidió hacerse presente visible",
+            "content_html": "<p>Un pedacito de la Luna desciende y se posa ante tus ojos</p>\n<p>polvo cósmico que decidió hacerse presente</p>\n<p>visible</p>",
+            "image": "https://lunati.ca/media/posts/6/PIA00132~orig.jpg",
+            "author": {
+                "name": "Lunática"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-07T12:05:51+02:00",
+            "date_modified": "2024-08-07T12:05:51+02:00"
+        },
+        {
+            "id": "https://lunati.ca/quimera/",
+            "url": "https://lunati.ca/quimera/",
+            "title": "Quimera",
+            "summary": "Quimera es un sistema de rol universal y personalizable que Lorem Ipsum lalalalala espero lo disfrutes",
+            "content_html": "<p>Quimera es un sistema de rol universal y personalizable que Lorem Ipsum lalalalala</p>\n<p>espero lo disfrutes</p>",
+            "image": "https://lunati.ca/media/posts/5/bigologo.png",
+            "author": {
+                "name": "Lunática"
+            },
+            "tags": [
+                   "Rol"
+            ],
+            "date_published": "2024-08-06T15:02:47+02:00",
+            "date_modified": "2024-08-07T12:07:16+02:00"
+        }
+    ]
+}

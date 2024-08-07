@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lunati.ca/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lunati.ca/</loc>
+</url>
+<url>
+<loc>https://lunati.ca/home/</loc>
+<lastmod>2024-08-07T12:05:51+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/6/PIA00132~orig.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lunati.ca/quimera/</loc>
+<lastmod>2024-08-07T12:07:16+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/5/bigologo.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

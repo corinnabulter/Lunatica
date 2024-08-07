@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Lunatica</title>
+    <link href="https://lunati.ca/feed.xml" rel="self" />
+    <link href="https://lunati.ca" />
+    <updated>2024-08-07T12:07:16+02:00</updated>
+    <author>
+        <name>Lunática</name>
+    </author>
+    <id>https://lunati.ca</id>
+
+    <entry>
+        <title>Lunatica</title>
+        <author>
+            <name>Lunática</name>
+        </author>
+        <link href="https://lunati.ca/home/"/>
+        <id>https://lunati.ca/home/</id>
+        <media:content url="https://lunati.ca/media/posts/6/PIA00132~orig.jpg" medium="image" />
+
+        <updated>2024-08-07T12:05:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunati.ca/media/posts/6/PIA00132~orig.jpg" alt="" />
+                    Un pedacito de la Luna desciende y se posa ante tus ojos polvo cósmico que decidió hacerse presente visible
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunati.ca/media/posts/6/PIA00132~orig.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Un pedacito de la Luna desciende y se posa ante tus ojos</p>
+<p>polvo cósmico que decidió hacerse presente</p>
+<p>visible</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Quimera</title>
+        <author>
+            <name>Lunática</name>
+        </author>
+        <link href="https://lunati.ca/quimera/"/>
+        <id>https://lunati.ca/quimera/</id>
+        <media:content url="https://lunati.ca/media/posts/5/bigologo.png" medium="image" />
+            <category term="Rol"/>
+
+        <updated>2024-08-06T15:02:47+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunati.ca/media/posts/5/bigologo.png" alt="" />
+                    Quimera es un sistema de rol universal y personalizable que Lorem Ipsum lalalalala espero lo disfrutes
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunati.ca/media/posts/5/bigologo.png" class="type:primaryImage" alt="" /></p>
+                <p>Quimera es un sistema de rol universal y personalizable que Lorem Ipsum lalalalala</p>
+<p>espero lo disfrutes</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
