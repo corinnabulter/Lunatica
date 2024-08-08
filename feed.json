@@ -59,19 +59,6 @@
             "date_modified": "2024-08-08T10:50:45+02:00"
         },
         {
-            "id": "https://lunati.ca/un-dibujo-cualquiera/",
-            "url": "https://lunati.ca/un-dibujo-cualquiera/",
-            "title": "Un dibujo cualquiera",
-            "author": {
-                "name": "Lunática"
-            },
-            "tags": [
-                   "Tinta"
-            ],
-            "date_published": "2024-08-07T19:56:19+02:00",
-            "date_modified": "2024-08-07T19:56:19+02:00"
-        },
-        {
             "id": "https://lunati.ca/quimera/",
             "url": "https://lunati.ca/quimera/",
             "title": "Quimera",
