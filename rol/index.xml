@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rols on Lunática</title>
+    <link>https://lunati.ca/rol/</link>
+    <description>Recent content in Rols on Lunática</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 15 Aug 2024 11:03:12 +0200</lastBuildDate>
+    <atom:link href="https://lunati.ca/rol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quimera</title>
+      <link>https://lunati.ca/rol/quimera/</link>
+      <pubDate>Thu, 15 Aug 2024 11:03:12 +0200</pubDate>
+      <guid>https://lunati.ca/rol/quimera/</guid>
+      <description>Quimera es un sistema de rol genérico y personalizable, que se puede adaptar según las necesidades y pretende poderse utilizar en cualquier (o casi cualquier) ambientación y género narrativo. En este sistema tanto lxs jugadorxs como lx Game Master, aquí llamadx Oráculo, usan los siete dados polihédricos (d4, d6, d8, d10, d12, d20 y d100) para adentrarse en lo más profundo de las mareas, explorar las galaxias más lejanas, derrotar los más temidos terrores de la psique o simplemente tomar unas hidromieles en la taberna del pueblo.</description>
+    </item>
+  </channel>
+</rss>

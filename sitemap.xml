@@ -1,43 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lunati.ca/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url>
-<loc>https://lunati.ca/</loc>
-</url>
-<url>
-<loc>https://lunati.ca/deutschesprachelaengezusammengesetztewoertereffizienzpraxisparadox-o-sobre-la-paradoja-de-la-efiencia-del-lenguaje-aleman/</loc>
-<lastmod>2024-08-07T19:55:30+02:00</lastmod>
-</url>
-<url>
-<loc>https://lunati.ca/home/</loc>
-<lastmod>2024-08-08T01:21:23+02:00</lastmod>
-</url>
-<url>
-<loc>https://lunati.ca/mientras-la-entrevista-de-lyla/</loc>
-<lastmod>2024-08-08T01:06:01+02:00</lastmod>
-</url>
-<url>
-<loc>https://lunati.ca/nicole-la-poeta/</loc>
-<lastmod>2024-08-08T00:59:20+02:00</lastmod>
-<image:image>
-<image:loc>https://lunati.ca/media/posts/8/Nicole.jpeg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://lunati.ca/quimera/</loc>
-<lastmod>2024-08-07T17:02:24+02:00</lastmod>
-<image:image>
-<image:loc>https://lunati.ca/media/posts/5/bigologo.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://lunati.ca/sin-titulo/</loc>
-<lastmod>2024-08-08T01:03:24+02:00</lastmod>
-</url>
-<url>
-<loc>https://lunati.ca/un-dibujo-cualquiera/</loc>
-<lastmod>2024-08-07T19:56:19+02:00</lastmod>
-</url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://lunati.ca/letras/</loc><lastmod>2024-08-15T11:08:38&#43;02:00</lastmod></url><url>
+            <loc>https://lunati.ca/</loc><lastmod>2024-08-15T11:08:38&#43;02:00</lastmod></url><url>
+            <loc>https://lunati.ca/letras/mientras_la_entrevista_de_lyla/</loc><lastmod>2024-08-15T11:08:38&#43;02:00</lastmod></url><url>
+            <loc>https://lunati.ca/chorito/</loc><lastmod>2024-08-15T11:05:46&#43;02:00</lastmod></url><url>
+            <loc>https://lunati.ca/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</loc><lastmod>2024-08-15T11:05:46&#43;02:00</lastmod></url><url>
+            <loc>https://lunati.ca/rol/quimera/</loc><lastmod>2024-08-15T11:03:12&#43;02:00</lastmod></url><url>
+            <loc>https://lunati.ca/rol/</loc><lastmod>2024-08-15T11:03:12&#43;02:00</lastmod></url><url>
+            <loc>https://lunati.ca/categories/</loc></url><url>
+            <loc>https://lunati.ca/tags/</loc></url></urlset>
