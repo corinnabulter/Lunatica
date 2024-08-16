@@ -2,16 +2,18 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-08-17T00:29:50&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/chorito/</loc><lastmod>2024-08-16T18:52:28&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</loc><lastmod>2024-08-16T18:52:28&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-08-16T18:52:28&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/</loc><lastmod>2024-08-16T18:43:11&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/sin-titulo/</loc><lastmod>2024-08-16T18:43:11&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/nicole-la-poeta/</loc><lastmod>2024-08-16T17:55:12&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/rol/nicole-la-poeta/</loc><lastmod>2024-08-16T17:55:12&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/rol/</loc><lastmod>2024-08-16T17:55:12&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2024-08-16T17:55:12&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/mientras-la-entrevista-de-lyla/</loc><lastmod>2024-08-16T17:52:24&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/chorito/que-es-chorito/</loc><lastmod>2024-08-16T17:42:07&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/quimera/</loc><lastmod>2024-08-16T17:37:47&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/rol/quimera/</loc><lastmod>2024-08-16T17:37:47&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/sistemas-de-rol/</loc><lastmod>2024-08-16T17:37:47&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2024-08-16T17:37:47&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/categories/</loc></url></urlset>

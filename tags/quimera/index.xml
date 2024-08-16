@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Quimera - Tag - Lunática</title>
+        <title>Quimera - Etiqueta - Lunática</title>
         <link>http://localhost:1313/tags/quimera/</link>
-        <description>Quimera - Tag - Lunática</description>
+        <description>Quimera - Etiqueta - Lunática</description>
         <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/quimera/" rel="self" type="application/rss+xml" /><item>
     <title>Quimera</title>
     <link>http://localhost:1313/rol/quimera/</link>

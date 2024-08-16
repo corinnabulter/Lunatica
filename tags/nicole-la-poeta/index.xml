@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Nicole La Poeta - Tag - Lunática</title>
+        <title>Nicole La Poeta - Etiqueta - Lunática</title>
         <link>http://localhost:1313/tags/nicole-la-poeta/</link>
-        <description>Nicole La Poeta - Tag - Lunática</description>
+        <description>Nicole La Poeta - Etiqueta - Lunática</description>
         <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/nicole-la-poeta/" rel="self" type="application/rss+xml" /><item>
     <title>Nicole La Poeta</title>
     <link>http://localhost:1313/rol/nicole-la-poeta/</link>

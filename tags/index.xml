@@ -1,9 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Lunática</title>
+        <title>Tags - Etiqueta - Lunática</title>
         <link>http://localhost:1313/tags/</link>
-        <description>Tags - Tag - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+        <description>Tags - Etiqueta - Lunática</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Nicole La Poeta</title>
+    <link>http://localhost:1313/tags/nicole-la-poeta/</link>
+    <pubDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/tags/nicole-la-poeta/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Quimera</title>
     <link>http://localhost:1313/tags/quimera/</link>
     <pubDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</pubDate>
