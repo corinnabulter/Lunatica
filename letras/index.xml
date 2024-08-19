@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Letras on Lunática</title>
-    <link>http://localhost:1313/letras/</link>
+    <link>https://lunati.ca/letras/</link>
     <description>Recent content in Letras on Lunática</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 16 Aug 2024 18:43:11 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/letras/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lunati.ca/letras/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sin Título</title>
-      <link>http://localhost:1313/letras/sin-titulo/</link>
+      <link>https://lunati.ca/letras/sin-titulo/</link>
       <pubDate>Fri, 16 Aug 2024 18:43:11 +0200</pubDate>
-      <guid>http://localhost:1313/letras/sin-titulo/</guid>
+      <guid>https://lunati.ca/letras/sin-titulo/</guid>
       <description>vacío&#xA;vacío que encuentro cada que miro&#xA;entre los pestañeos, entre las palabras, entre letra-y-letra&#xA;vacío indescriptible en tu intento de hacerme reír&#xA;vacío indurable en el falso interés&#xA;vacío vicio de los que me rodean&#xA;[texto rayado] queda imperdurable&#xA;como los sorbitos de agonía que me brinda tu ausencia presencia&#xA;como si de aquello perdido fueras capaz de reaccionar&#xA;vacío el ruido que revienta mis oídos&#xA;Este forma parte de un conjunto de poemas escritos desde la perspectiva de un personaje de rol llamada Nicole, si quieres saber más te invito a leer Nicole, la poeta.</description>
     </item>
     <item>
       <title>Mientras La Entrevista De Lyla</title>
-      <link>http://localhost:1313/letras/mientras-la-entrevista-de-lyla/</link>
+      <link>https://lunati.ca/letras/mientras-la-entrevista-de-lyla/</link>
       <pubDate>Fri, 16 Aug 2024 17:52:24 +0200</pubDate>
-      <guid>http://localhost:1313/letras/mientras-la-entrevista-de-lyla/</guid>
+      <guid>https://lunati.ca/letras/mientras-la-entrevista-de-lyla/</guid>
       <description>Desesperada y sin aliento&#xA;sola y con miedo&#xA;el ritmo cardíaco y la respiración agitada&#xA;son mi única compañía&#xA;no hay día ni noche&#xA;no hay noche ni día&#xA;no hay alma&#xA;no hay cuerpo&#xA;no hay tiempo en mis pasos perdidos&#xA;la niebla me asecha&#xA;y en ella sombras&#xA;recuerdos quizás&#xA;el regalo de mis miedos más profundos.&#xA;Este forma parte de un conjunto de poemas escritos desde la perspectiva de un personaje de rol llamada Nicole, si quieres saber más te invito a leer Nicole, la poeta.</description>
     </item>
   </channel>
