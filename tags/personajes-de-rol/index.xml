@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Personajes De Rol - Etiqueta - Lunática</title>
-        <link>https://lunati.ca/tags/personajes-de-rol/</link>
+        <link>http://localhost:1313/tags/personajes-de-rol/</link>
         <description>Personajes De Rol - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</lastBuildDate><atom:link href="https://lunati.ca/tags/personajes-de-rol/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/personajes-de-rol/" rel="self" type="application/rss+xml" /><item>
     <title>Nicole La Poeta</title>
-    <link>https://lunati.ca/rol/nicole-la-poeta/</link>
+    <link>http://localhost:1313/rol/nicole-la-poeta/</link>
     <pubDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</pubDate>
-    <author>Lunática</author>
-    <guid>https://lunati.ca/rol/nicole-la-poeta/</guid>
+    <author>Lunática 🌑</author>
+    <guid>http://localhost:1313/rol/nicole-la-poeta/</guid>
     <description><![CDATA[En una campaña de rol de terror decidí meterme en los zapatos de Nicole, una chica con grandes cantidades de barniz negro en la voz y sarcasmo en las uñas, una joven que, junto con su grupo de amigos, conducían un programa de investigaciones paranormales llamado &lsquo;El Metaoráculo&rsquo;.
 Nicole se encargaba de la investigación bibliográfica, teórica y de la redacción de los guiones para la grabación audiovisual. Pero además de esto, ella era fanática de la poesía, fumar un poco de hierba y escuchar postpunk.]]></description>
 </item>

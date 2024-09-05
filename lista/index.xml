@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lista - Categoría - Lunática</title>
+        <link>https://lunati.ca/lista/</link>
+        <description>Lista - Categoría - Lunática</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 05 Sep 2024 18:54:58 &#43;0200</lastBuildDate><atom:link href="https://lunati.ca/lista/" rel="self" type="application/rss+xml" /><item>
+    <title>Letras</title>
+    <link>https://lunati.ca/lista/letras/</link>
+    <pubDate>Thu, 05 Sep 2024 18:54:58 &#43;0200</pubDate>
+    <author>Lunática 🌑</author>
+    <guid>https://lunati.ca/lista/letras/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Chorito</title>
+    <link>https://lunati.ca/lista/chorito/</link>
+    <pubDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</pubDate>
+    <author>Lunática 🌑</author>
+    <guid>https://lunati.ca/lista/chorito/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Rol</title>
+    <link>https://lunati.ca/lista/rol/</link>
+    <pubDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</pubDate>
+    <author>Lunática 🌑</author>
+    <guid>https://lunati.ca/lista/rol/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

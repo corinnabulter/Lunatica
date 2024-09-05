@@ -1,16 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Idiomas - Etiqueta - Lunática</title>
-        <link>https://lunati.ca/tags/idiomas/</link>
+        <link>http://localhost:1313/tags/idiomas/</link>
         <description>Idiomas - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</lastBuildDate><atom:link href="https://lunati.ca/tags/idiomas/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/idiomas/" rel="self" type="application/rss+xml" /><item>
     <title>Deutschesprachelängezusammengesetztewörtereffizienzpraxisparadox</title>
-    <link>https://lunati.ca/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</link>
+    <link>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</link>
     <pubDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</pubDate>
-    <author>Lunática</author>
-    <guid>https://lunati.ca/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</guid>
-    <description><![CDATA[Para cualquiera que haya empezado a explorar un poco del idioma alemán habrá notado un poco de su rudeza en la recepción de quienes intentamos aprenderlo. Y es que no resalta sólo por su pronunciación altamente consonante y gutural, sino que también posee una característica que pocos idiomas presumen: la capacidad de mezclar dos o más palabras con el objetivo de componer una nueva con un significado nuevo.
-Es cierto que existen otros idiomas que también poseen esta cualidad, como son el náhuatl (idioma nativo de México), el finlandés, el islandés, el holandés, el sueco y en ocasiones el inglés, sin embargo el alemán se ha ganado fama entre amantes de los idiomas por esta particularidad (por su puesto también enfoco este artículo al alemán porque es el idioma que estoy aprendiendo y no sé hablar los demás nombrados a excepción de inglés… pero obviamente las palabras compuestas del inglés no se comparan).]]></description>
+    <author>Lunática 🌑</author>
+    <guid>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</guid>
+    <description><![CDATA[Análisis de la funcionalidad de las palabras compuestas en el idioma alemán.]]></description>
 </item>
 </channel>
 </rss>
