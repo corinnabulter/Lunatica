@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Idiomas - Etiqueta - Lunática</title>
-        <link>http://localhost:1313/tags/idiomas/</link>
+        <link>https://lunati.ca/tags/idiomas/</link>
         <description>Idiomas - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/idiomas/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</lastBuildDate><atom:link href="https://lunati.ca/tags/idiomas/" rel="self" type="application/rss+xml" /><item>
     <title>Deutschesprachelängezusammengesetztewörtereffizienzpraxisparadox</title>
-    <link>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</link>
+    <link>https://lunati.ca/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</link>
     <pubDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</pubDate>
-    <author>Lunática 🌑</author>
-    <guid>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</guid>
-    <description><![CDATA[Análisis de la funcionalidad de las palabras compuestas en el idioma alemán.]]></description>
+    <author>Lunática</author>
+    <guid>https://lunati.ca/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</guid>
+    <description><![CDATA[Un breve análisis de la funcionalidad de las palabras compuestas en el idioma alemán.]]></description>
 </item>
 </channel>
 </rss>

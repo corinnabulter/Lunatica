@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Sistemas De Rol - Etiqueta - Lunática</title>
-        <link>http://localhost:1313/tags/sistemas-de-rol/</link>
+        <link>https://lunati.ca/tags/sistemas-de-rol/</link>
         <description>Sistemas De Rol - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/sistemas-de-rol/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</lastBuildDate><atom:link href="https://lunati.ca/tags/sistemas-de-rol/" rel="self" type="application/rss+xml" /><item>
     <title>Quimera</title>
-    <link>http://localhost:1313/rol/quimera/</link>
+    <link>https://lunati.ca/rol/quimera/</link>
     <pubDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>http://localhost:1313/rol/quimera/</guid>
-    <description><![CDATA[¿Qué es Quimera? Quimera es un sistema de rol genérico y personalizable, que se puede adaptar según las necesidades y pretende poderse utilizar en cualquier (o casi cualquier) ambientación y género narrativo. En este sistema tanto lxs jugadorxs como lx Game Master, aquí llamadx Oráculo, usan los siete dados polihédricos (d4, d6, d8, d10, d12, d20 y d100) para adentrarse en lo más profundo de las mareas, explorar las galaxias más lejanas, derrotar los más temidos terrores de la psique o simplemente tomar unas hidromieles en la taberna del pueblo.]]></description>
+    <guid>https://lunati.ca/rol/quimera/</guid>
+    <description><![CDATA[Quimera es un sistema de rol indie, genérico y personalizable, que puede adaptarse a cualquier ambientación y género narrativo.]]></description>
 </item>
 </channel>
 </rss>

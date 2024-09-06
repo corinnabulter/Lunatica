@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Todo sobre Artículos - Lunática</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Todo sobre Artículos | Lunática</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 06 Sep 2024 12:12:21 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>http://localhost:1313/posts/test/</link>
+    <pubDate>Fri, 06 Sep 2024 12:12:21 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/posts/test/</guid>
+    <description><![CDATA[Something here ]]></description>
+</item>
+</channel>
+</rss>
