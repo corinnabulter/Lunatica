@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rol on Lunática</title>
-    <link>https://lunati.ca/rol/</link>
+    <link>http://localhost:1313/rol/</link>
     <description>Recent content in Rol on Lunática</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lunati.ca/rol/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/rol/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arte Rolero</title>
-      <link>https://lunati.ca/rol/arte-rolero/</link>
+      <link>http://localhost:1313/rol/arte-rolero/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://lunati.ca/rol/arte-rolero/</guid>
+      <guid>http://localhost:1313/rol/arte-rolero/</guid>
       <description>Jugar a rol puede ser un simple hobbie o pasa-tiempos, esa dinámica narrativa que estás empezando a explorar o esa parte de tu vida que se ha vuelto tan elemental que el número de sesiones por semana es mayor que la cantidad de glóbulos blancos que corren por tu torrente sanguíneo. Pero lo cierto es que además de ser un mero fenómeno de entretenimiento hay una constante discusión de si el rol es más que una actividad lúdica, de si es, o puede llegar a ser, un tipo de arte o no.</description>
     </item>
     <item>
       <title>Quimera, Guía para le Oráculo</title>
-      <link>https://lunati.ca/rol/quimera-guia-oraculo/</link>
+      <link>http://localhost:1313/rol/quimera-guia-oraculo/</link>
       <pubDate>Thu, 12 Sep 2024 18:39:43 +0200</pubDate>
-      <guid>https://lunati.ca/rol/quimera-guia-oraculo/</guid>
+      <guid>http://localhost:1313/rol/quimera-guia-oraculo/</guid>
       <description>En esta guía para le Oráculo (Máster de Juego) encontrarás algunos puntos clave para personalizar Quimera y sacarle todo el provecho al sistema.</description>
     </item>
     <item>
       <title>Quimera, Manual en línea</title>
-      <link>https://lunati.ca/rol/quimera-manual/</link>
+      <link>http://localhost:1313/rol/quimera-manual/</link>
       <pubDate>Thu, 12 Sep 2024 18:31:15 +0200</pubDate>
-      <guid>https://lunati.ca/rol/quimera-manual/</guid>
+      <guid>http://localhost:1313/rol/quimera-manual/</guid>
       <description>Manual en línea de Quimera, en donde encontrarás las mecánicas del sistema y todo lo que necesitas saber para empezar a jugar.</description>
     </item>
     <item>
       <title>¿Qué Es Quimera?</title>
-      <link>https://lunati.ca/rol/que-es-quimera/</link>
+      <link>http://localhost:1313/rol/que-es-quimera/</link>
       <pubDate>Thu, 12 Sep 2024 17:37:34 +0200</pubDate>
-      <guid>https://lunati.ca/rol/que-es-quimera/</guid>
+      <guid>http://localhost:1313/rol/que-es-quimera/</guid>
       <description>Quimera es un sistema independiente de rol, de ambientación universal y con mecánicas modificables.  Explora un poco sobre en qué consiste y cómo funciona.</description>
     </item>
     <item>
       <title>Nicole La Poeta</title>
-      <link>https://lunati.ca/rol/nicole-la-poeta/</link>
+      <link>http://localhost:1313/rol/nicole-la-poeta/</link>
       <pubDate>Fri, 16 Aug 2024 17:55:12 +0200</pubDate>
-      <guid>https://lunati.ca/rol/nicole-la-poeta/</guid>
+      <guid>http://localhost:1313/rol/nicole-la-poeta/</guid>
       <description>En Nicole encontré una forma bella de mezclar dos cosas que amo: la poesía y el rol.  La poesía rolera permite habitar otra piel y expresarse con otra voz.</description>
     </item>
     <item>
       <title>Quimera</title>
-      <link>https://lunati.ca/rol/quimera/</link>
+      <link>http://localhost:1313/rol/quimera/</link>
       <pubDate>Fri, 16 Aug 2024 17:37:47 +0200</pubDate>
-      <guid>https://lunati.ca/rol/quimera/</guid>
+      <guid>http://localhost:1313/rol/quimera/</guid>
       <description>Quimera es un sistema de rol indie, genérico y personalizable, que puede adaptarse a cualquier ambientación y género narrativo.</description>
     </item>
   </channel>

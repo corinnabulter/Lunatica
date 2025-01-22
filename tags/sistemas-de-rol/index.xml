@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Sistemas De Rol - Etiqueta - Lunática</title>
-        <link>https://lunati.ca/tags/sistemas-de-rol/</link>
+        <link>http://localhost:1313/tags/sistemas-de-rol/</link>
         <description>Sistemas De Rol - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</lastBuildDate><atom:link href="https://lunati.ca/tags/sistemas-de-rol/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/sistemas-de-rol/" rel="self" type="application/rss+xml" /><item>
     <title>Quimera</title>
-    <link>https://lunati.ca/rol/quimera/</link>
+    <link>http://localhost:1313/rol/quimera/</link>
     <pubDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/rol/quimera/</guid>
+    <guid>http://localhost:1313/rol/quimera/</guid>
     <description><![CDATA[Quimera es un sistema de rol indie, genérico y personalizable, que puede adaptarse a cualquier ambientación y género narrativo.]]></description>
 </item>
 </channel>

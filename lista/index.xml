@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Lista - Categoría - Lunática</title>
-        <link>https://lunati.ca/lista/</link>
+        <link>http://localhost:1313/lista/</link>
         <description>Lista - Categoría - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 18 Sep 2024 10:52:23 &#43;0200</lastBuildDate><atom:link href="https://lunati.ca/lista/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 18 Sep 2024 10:52:23 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/lista/" rel="self" type="application/rss+xml" /><item>
     <title>Letras</title>
-    <link>https://lunati.ca/lista/letras/</link>
+    <link>http://localhost:1313/lista/letras/</link>
     <pubDate>Wed, 18 Sep 2024 10:52:23 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/lista/letras/</guid>
+    <guid>http://localhost:1313/lista/letras/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Rol</title>
-    <link>https://lunati.ca/lista/rol/</link>
+    <link>http://localhost:1313/lista/rol/</link>
     <pubDate>Tue, 17 Sep 2024 00:00:00 &#43;0000</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/lista/rol/</guid>
+    <guid>http://localhost:1313/lista/rol/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Chorito</title>
-    <link>https://lunati.ca/lista/chorito/</link>
+    <link>http://localhost:1313/lista/chorito/</link>
     <pubDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/lista/chorito/</guid>
+    <guid>http://localhost:1313/lista/chorito/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

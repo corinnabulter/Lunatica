@@ -1,78 +1,78 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Etiqueta - Lunática</title>
-        <link>https://lunati.ca/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Tags - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Tue, 17 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://lunati.ca/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Tue, 17 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Arte Rolero</title>
-    <link>https://lunati.ca/tags/arte-rolero/</link>
+    <link>http://localhost:1313/tags/arte-rolero/</link>
     <pubDate>Tue, 17 Sep 2024 00:00:00 &#43;0000</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/arte-rolero/</guid>
+    <guid>http://localhost:1313/tags/arte-rolero/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Poesía Rolera</title>
-    <link>https://lunati.ca/tags/poes%C3%ADa-rolera/</link>
+    <link>http://localhost:1313/tags/poes%C3%ADa-rolera/</link>
     <pubDate>Tue, 17 Sep 2024 00:00:00 &#43;0000</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/poes%C3%ADa-rolera/</guid>
+    <guid>http://localhost:1313/tags/poes%C3%ADa-rolera/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Poesía</title>
-    <link>https://lunati.ca/tags/poes%C3%ADa/</link>
+    <link>http://localhost:1313/tags/poes%C3%ADa/</link>
     <pubDate>Mon, 09 Sep 2024 10:23:11 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/poes%C3%ADa/</guid>
+    <guid>http://localhost:1313/tags/poes%C3%ADa/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Nicole La Poeta</title>
-    <link>https://lunati.ca/tags/nicole-la-poeta/</link>
+    <link>http://localhost:1313/tags/nicole-la-poeta/</link>
     <pubDate>Thu, 05 Sep 2024 18:54:58 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/nicole-la-poeta/</guid>
+    <guid>http://localhost:1313/tags/nicole-la-poeta/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Idiomas</title>
-    <link>https://lunati.ca/tags/idiomas/</link>
+    <link>http://localhost:1313/tags/idiomas/</link>
     <pubDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/idiomas/</guid>
+    <guid>http://localhost:1313/tags/idiomas/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Lingüística</title>
-    <link>https://lunati.ca/tags/ling%C3%BC%C3%ADstica/</link>
+    <link>http://localhost:1313/tags/ling%C3%BC%C3%ADstica/</link>
     <pubDate>Fri, 16 Aug 2024 18:52:28 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/ling%C3%BC%C3%ADstica/</guid>
+    <guid>http://localhost:1313/tags/ling%C3%BC%C3%ADstica/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Personajes De Rol</title>
-    <link>https://lunati.ca/tags/personajes-de-rol/</link>
+    <link>http://localhost:1313/tags/personajes-de-rol/</link>
     <pubDate>Fri, 16 Aug 2024 17:55:12 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/personajes-de-rol/</guid>
+    <guid>http://localhost:1313/tags/personajes-de-rol/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Quimera</title>
-    <link>https://lunati.ca/tags/quimera/</link>
+    <link>http://localhost:1313/tags/quimera/</link>
     <pubDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/quimera/</guid>
+    <guid>http://localhost:1313/tags/quimera/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Sistemas De Rol</title>
-    <link>https://lunati.ca/tags/sistemas-de-rol/</link>
+    <link>http://localhost:1313/tags/sistemas-de-rol/</link>
     <pubDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</pubDate>
     <author>Lunática</author>
-    <guid>https://lunati.ca/tags/sistemas-de-rol/</guid>
+    <guid>http://localhost:1313/tags/sistemas-de-rol/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

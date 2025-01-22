@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chorito on Lunática</title>
-    <link>https://lunati.ca/chorito/</link>
+    <link>http://localhost:1313/chorito/</link>
     <description>Recent content in Chorito on Lunática</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lunati.ca/chorito/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/chorito/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deutschesprachelängezusammengesetztewörtereffizienzpraxisparadox</title>
-      <link>https://lunati.ca/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</link>
+      <link>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</link>
       <pubDate>Fri, 16 Aug 2024 18:52:28 +0200</pubDate>
-      <guid>https://lunati.ca/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</guid>
+      <guid>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</guid>
       <description>Un breve análisis de la funcionalidad de las palabras compuestas en el idioma alemán.</description>
     </item>
     <item>
       <title>¿Qué es Chorito?</title>
-      <link>https://lunati.ca/chorito/que-es-chorito/</link>
+      <link>http://localhost:1313/chorito/que-es-chorito/</link>
       <pubDate>Fri, 16 Aug 2024 17:42:07 +0200</pubDate>
-      <guid>https://lunati.ca/chorito/que-es-chorito/</guid>
+      <guid>http://localhost:1313/chorito/que-es-chorito/</guid>
       <description>El sustantivo choro y el verbo chorear provienen de la jerga coloquial mexicana, y hacen referencia al acto de expresar un discurso cuyo contenido posee una densa carga de tecnicismos y conceptos de áreas de conocimiento especializadas y/o conceptos inventados en algunas ocasiones.&#xA;Este tipo de discursos generalmente monologales suele tener el objetivo de confundir, convencer, sorprender o engañar a alguien, aunque la aplicación del choro puede extenderse a prácitcas con fines más sutiles y útiles, como pueden ser extender un párrafo a una o dos cuartillas al escribir una tesis o pasar la noche abordando profundas conversaciones semi-filosóficas.</description>
     </item>
   </channel>
