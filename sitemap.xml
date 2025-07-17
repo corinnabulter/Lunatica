@@ -2,8 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/lista/letras/</loc><lastmod>2024-09-18T10:52:23&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/</loc><lastmod>2025-01-28T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/lista/letras/</loc><lastmod>2025-07-17T16:52:33&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/lista/</loc><lastmod>2025-07-17T16:52:33&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/letras/me-tengo-miedo/</loc><lastmod>2025-07-17T16:52:33&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/letras/el-color-de-mi-odio/</loc><lastmod>2025-07-17T16:51:35&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/si-me-dijera/</loc><lastmod>2024-09-18T10:52:23&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/arte-rolero/</loc><lastmod>2024-09-17T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/rol/arte-rolero/</loc><lastmod>2024-09-17T00:00:00&#43;00:00</lastmod></url><url>
