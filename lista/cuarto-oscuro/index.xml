@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cuarto-Oscuro - Categoría - Lunática</title>
+        <link>http://localhost:1313/lista/cuarto-oscuro/</link>
+        <description>Cuarto-Oscuro - Categoría - Lunática</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 28 Aug 2025 16:21:24 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/lista/cuarto-oscuro/" rel="self" type="application/rss+xml" /><item>
+    <title>Entre la Vida y la Muerte</title>
+    <link>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</link>
+    <pubDate>Thu, 28 Aug 2025 16:21:24 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</guid>
+    <description><![CDATA[Entre la Vida y la Muerte La percepción humana está fuertemente basada en la lógica de las dicotomías: blanco o negro, sí o no, bueno o malo, mujer u hombre, caliente o frío, etcétera. Y pese a que sabemos que existe una variedad mucho más grande, con puntos intermedios y puntos fuera de estas escalas, lo cierto es que representan una estructura fundamental en el pensamiento humano.
+Esto nos hace preguntarnos el por qué, cuál es la razón de este dualismo intrínseco de nuestro razonamiento.]]></description>
+</item>
+<item>
+    <title>Cuarto Oscuro</title>
+    <link>http://localhost:1313/cuarto-oscuro/</link>
+    <pubDate>Thu, 28 Aug 2025 16:15:35 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/cuarto-oscuro/</guid>
+    <description><![CDATA[La gente no se cansa de decir que una imagen dice más que mil palabras; yo no sé esto sea cierto o no, más bien pensaría que depende de la imagen: su contenido y composición, la técnica y su técnica, y sobretodo su carga emocional y simbólica. En cualquiera de los casos mis imágenes dirán cuando mucho dos o tres palabras.
+En Cuarto Oscuro encontrarás colecciones en forma de galerías virtuales que reflejan un poco de lo que mis ojos han captado en formato fotográfico, esperando que entre tanta verborrea visual encuentres quizás esas dos o tres palabras que necesitabas.]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuarto Oscuro on Lunática</title>
+    <link>http://localhost:1313/cuarto-oscuro/</link>
+    <description>Recent content in Cuarto Oscuro on Lunática</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Aug 2025 16:21:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cuarto-oscuro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entre la Vida y la Muerte</title>
+      <link>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</link>
+      <pubDate>Thu, 28 Aug 2025 16:21:24 +0200</pubDate>
+      <guid>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</guid>
+      <description>Entre la Vida y la Muerte La percepción humana está fuertemente basada en la lógica de las dicotomías: blanco o negro, sí o no, bueno o malo, mujer u hombre, caliente o frío, etcétera. Y pese a que sabemos que existe una variedad mucho más grande, con puntos intermedios y puntos fuera de estas escalas, lo cierto es que representan una estructura fundamental en el pensamiento humano.&#xA;Esto nos hace preguntarnos el por qué, cuál es la razón de este dualismo intrínseco de nuestro razonamiento.</description>
+    </item>
+  </channel>
+</rss>

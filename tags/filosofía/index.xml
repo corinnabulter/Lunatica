@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Filosofía - Etiqueta - Lunática</title>
+        <link>http://localhost:1313/tags/filosof%C3%ADa/</link>
+        <description>Filosofía - Etiqueta - Lunática</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Sat, 22 Feb 2025 15:48:14 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/tags/filosof%C3%ADa/" rel="self" type="application/rss+xml" /><item>
+    <title>Teoría Del Rol</title>
+    <link>http://localhost:1313/chorito/teoria-del-rol/</link>
+    <pubDate>Sat, 22 Feb 2025 15:48:14 &#43;0100</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/chorito/teoria-del-rol/</guid>
+    <description><![CDATA[Introducción Antes de comenzar quiero aclarar que este artículo no es de Teoría Rolera, pese a que el título es &lsquo;Teoría del Rol&rsquo; estas palabras no están enfocadas a hablar del mundo rolero en sí, sino de cómo la lógica de los juegos del rol puede servirnos para entender y abstraer aquello que llamamos realidad.
+Por ende el tono de este artículo irá un poco más cercano a una semi-filosofía que a aquello que llamamos Teoría Rolera.]]></description>
+</item>
+</channel>
+</rss>
