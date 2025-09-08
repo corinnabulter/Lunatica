@@ -2,11 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1313/lista/letras/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/lista/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/letras/no-soy/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/lista/cuarto-oscuro/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/cuarto-oscuro/</loc><lastmod>2025-08-05T16:44:35&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/letras/</loc><lastmod>2025-07-17T16:52:33&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/me-tengo-miedo/</loc><lastmod>2025-07-17T16:52:33&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/el-color-de-mi-odio/</loc><lastmod>2025-07-17T16:51:35&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/si-me-dijera/</loc><lastmod>2024-09-18T10:52:23&#43;02:00</lastmod></url><url>
