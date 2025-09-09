@@ -3,7 +3,31 @@
         <title>Sistemas De Rol - Etiqueta - Lunática</title>
         <link>http://localhost:1313/tags/sistemas-de-rol/</link>
         <description>Sistemas De Rol - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/sistemas-de-rol/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 12 Sep 2024 18:39:43 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/sistemas-de-rol/" rel="self" type="application/rss+xml" /><item>
+    <title>Quimera, Guía para le Oráculo</title>
+    <link>http://localhost:1313/rol/quimera-guia-oraculo/</link>
+    <pubDate>Thu, 12 Sep 2024 18:39:43 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/rol/quimera-guia-oraculo/</guid>
+    <description><![CDATA[En esta guía para le Oráculo (Máster de Juego) encontrarás algunos puntos clave para personalizar Quimera y sacarle todo el provecho al sistema.]]></description>
+</item>
+<item>
+    <title>Quimera, Manual en línea</title>
+    <link>http://localhost:1313/rol/quimera-manual/</link>
+    <pubDate>Thu, 12 Sep 2024 18:31:15 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/rol/quimera-manual/</guid>
+    <description><![CDATA[Manual en línea de Quimera, en donde encontrarás las mecánicas del sistema y todo lo que necesitas saber para empezar a jugar.]]></description>
+</item>
+<item>
+    <title>¿Qué Es Quimera?</title>
+    <link>http://localhost:1313/rol/que-es-quimera/</link>
+    <pubDate>Thu, 12 Sep 2024 17:37:34 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/rol/que-es-quimera/</guid>
+    <description><![CDATA[Quimera es un sistema independiente de rol, de ambientación universal y con mecánicas modificables.  Explora un poco sobre en qué consiste y cómo funciona.]]></description>
+</item>
+<item>
     <title>Quimera</title>
     <link>http://localhost:1313/rol/quimera/</link>
     <pubDate>Fri, 16 Aug 2024 17:37:47 &#43;0200</pubDate>

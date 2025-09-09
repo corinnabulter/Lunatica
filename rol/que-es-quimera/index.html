@@ -13,6 +13,8 @@
     <meta property="article:section" content="rol">
     <meta property="article:published_time" content="2024-09-12T17:37:34+02:00">
     <meta property="article:modified_time" content="2024-09-13T00:00:00+00:00">
+    <meta property="article:tag" content="Quimera">
+    <meta property="article:tag" content="Sistemas De Rol">
     <meta property="og:image" content="http://localhost:1313/img/id/logo-opengraph.png">
 
   <meta name="twitter:card" content="summary_large_image">
@@ -31,7 +33,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "http:\/\/localhost:1313\/rol\/que-es-quimera\/"
-        },"genre": "rol","wordcount":  2601 ,
+        },"genre": "rol","keywords": "Quimera, Sistemas de Rol","wordcount":  2601 ,
         "url": "http:\/\/localhost:1313\/rol\/que-es-quimera\/","datePublished": "2024-09-12T17:37:34+02:00","dateModified": "2024-09-13T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -161,40 +163,40 @@
 <p>¿Por qué dedico un apartado a abordar mecánicas que no están en Quimera?  Porque de esta manera puedo poner un punto de comparación para explicar mejor el porqué decidí implementar aquellas que sí están.</p>
 <p>Una de las mecánicas más comunes en el rol es el uso del dado de 20 caras (d20), el resultado de la tirada normalmente se sumará o restará un valor fijo del personaje y se comparará al número de dificultad.  ¿Cuál es el problema de esta mecánica?  Que la probabilidad de obtener un 1 o un 20 es prácticamente la misma, dando un resultado completamente azaroso e irreal, pues tanto une personaje muy experimentade como une completamente novate tienen la misma probabilidad de tener un éxito crítico o un fallo crítico.<br>
 <br>
-<figure><a class="lightgallery" href="/img/content/1d20.jpg" title="/img/content/1d20.jpg" data-thumbnail="/img/content/1d20.jpg" data-sub-html="<h2>Esta gráfica muestra los resultados de 100 tiradas de un dado de 20 caras, ilustrando la probabilidad de obtener los posibles resultados.</h2>">
+<figure><a class="lightgallery" href="/img/content/1d20.webp" title="/img/content/1d20.webp" data-thumbnail="/img/content/1d20.webp" data-sub-html="<h2>Esta gráfica muestra los resultados de 100 tiradas de un dado de 20 caras, ilustrando la probabilidad de obtener los posibles resultados.</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/1d20.jpg"
-            data-srcset="/img/content/1d20.jpg, /img/content/1d20.jpg 1.5x, /img/content/1d20.jpg 2x"
+            data-src="/img/content/1d20.webp"
+            data-srcset="/img/content/1d20.webp, /img/content/1d20.webp 1.5x, /img/content/1d20.webp 2x"
             data-sizes="auto"
-            alt="/img/content/1d20.jpg" />
+            alt="/img/content/1d20.webp" />
     </a><figcaption class="image-caption">Esta gráfica muestra los resultados de 100 tiradas de un dado de 20 caras, ilustrando la probabilidad de obtener los posibles resultados.</figcaption>
     </figure></p>
 <p>Lo sé, lo sé… antes de que salga alguien a atacarme, sé que aquí sólo se está representando la tirada al azar de un d20 sin evaluar si las tiradas tuvieron éxito, qué grado de éxito y no se está incluyendo ningún tipo de puntos bonificadores por raza, clase, etc.  Pero por el momento quiero que nos enfoquemos en analizar la diferencia estadística entre las diferentes mecánicas de dados sin otros factores añadidos.</p>
 <p>Hablando desde un punto estadístico entre más dados se utilicen, tomando en cuenta que el resultado sea el de la suma de estos, más balanceado será el resultado.  Esto es debido a que se tendrá una mayor repetición de resultados que, a su vez, implican una mayor probabilidad de resultados promedio.  ¿Cómo así?  Ok, si tomamos en consideración el resultado de un sólo dado la probabilidad de obtener cualquiera de los números posibles es exactamente la misma; sin embargo al añadir más dados y sumar los resultados esto cambia, tanto los resultados más altos como los más bajos se volverán cada vez más difícil de obtener.</p>
 <p>En la siguiente gráfica podemos ver el resultado de 100 tiradas de dos dados de 6 caras, en donde el resultado final es la suma de ambos dados (2d6).</p>
 <br>
-<figure><a class="lightgallery" href="/img/content/2d6.jpg" title="/img/content/2d6.jpg" data-thumbnail="/img/content/2d6.jpg" data-sub-html="<h2>Representación de los resultados obtenidos en 100 tiradas de 2d6, en donde el resultado se suma.</h2>">
+<figure><a class="lightgallery" href="/img/content/2d6.webp" title="/img/content/2d6.webp" data-thumbnail="/img/content/2d6.webp" data-sub-html="<h2>Representación de los resultados obtenidos en 100 tiradas de 2d6, en donde el resultado se suma.</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/2d6.jpg"
-            data-srcset="/img/content/2d6.jpg, /img/content/2d6.jpg 1.5x, /img/content/2d6.jpg 2x"
+            data-src="/img/content/2d6.webp"
+            data-srcset="/img/content/2d6.webp, /img/content/2d6.webp 1.5x, /img/content/2d6.webp 2x"
             data-sizes="auto"
-            alt="/img/content/2d6.jpg" />
+            alt="/img/content/2d6.webp" />
     </a><figcaption class="image-caption">Representación de los resultados obtenidos en 100 tiradas de 2d6, en donde el resultado se suma.</figcaption>
     </figure>
 <p>Podemos encontrar un efecto similar si los dados lanzados son de distintas cantidades de caras:</p>
 <br>
-<figure><a class="lightgallery" href="/img/content/1d6&#43;1d8.jpg" title="/img/content/1d6&#43;1d8.jpg" data-thumbnail="/img/content/1d6&#43;1d8.jpg" data-sub-html="<h2>Representación de los resultados obtenidos en 100 tiradas de 2d6, en donde el resultado se suma.</h2>">
+<figure><a class="lightgallery" href="/img/content/1d6&#43;1d8.webp" title="/img/content/1d6&#43;1d8.webp" data-thumbnail="/img/content/1d6&#43;1d8.webp" data-sub-html="<h2>Representación de los resultados obtenidos en 100 tiradas de 2d6, en donde el resultado se suma.</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/1d6&#43;1d8.jpg"
-            data-srcset="/img/content/1d6&#43;1d8.jpg, /img/content/1d6&#43;1d8.jpg 1.5x, /img/content/1d6&#43;1d8.jpg 2x"
+            data-src="/img/content/1d6&#43;1d8.webp"
+            data-srcset="/img/content/1d6&#43;1d8.webp, /img/content/1d6&#43;1d8.webp 1.5x, /img/content/1d6&#43;1d8.webp 2x"
             data-sizes="auto"
-            alt="/img/content/1d6&#43;1d8.jpg" />
+            alt="/img/content/1d6&#43;1d8.webp" />
     </a><figcaption class="image-caption">Representación de los resultados obtenidos en 100 tiradas de 2d6, en donde el resultado se suma.</figcaption>
     </figure>
 <p>En las últimas dos gráficas podemos ver cómo, por el simple hecho de tirar más dados y sumar los resultados (sin sumar puntajes de atributos), los resultados estarán posicionados de manera más frecuente en valores intermedios.  En la muchos sistemas que utilizan esta mecánica se añaden los dados de acuerdo a los atributos y se suman los dos mejores resultados, en otros casos se suman más, pero en general cuando se trata de sumar varios dados esta es la tendencia probabilística.  Este tipo de mecánicas se llama pool dice, o algo similar a ‘alberca de dados??’ (suena muy extraño en español).</p>
@@ -203,14 +205,14 @@
 <h3 id="uso-del-d100">Uso del D100</h3>
 <p>Técnicamente hablando el d100 funcionaría igual que el d20, tienes exactamente la misma probabilidad de obtener un 01 y un 100.  ¿Entonces cuál es la diferencia?  En otras mecánicas de dados el resultado es sumado a otro dado o al valor de un atributo y la dificultad suele ser estática (o haber un rango de dificultades); en el caso del d100 el resultado no se suma a nada, es simplemente el d100, y lo que varía es la dificultad que está definida individualmente por cada habilidad y por cada personaje.  Esto implica que la probabilidad de obtener éxito dibuje una línea de dificultad descendente entre más se haya aumentado una habilidad:</p>
 <br>
-<figure><a class="lightgallery" href="/img/content/1d100.jpg" title="/img/content/1d100.jpg" data-thumbnail="/img/content/1d100.jpg" data-sub-html="<h2>Representación de 100 tiradas de 1d100, en donde el resultado es igual o menor al valor de dificultad.</h2>">
+<figure><a class="lightgallery" href="/img/content/1d100.webp" title="/img/content/1d100.webp" data-thumbnail="/img/content/1d100.webp" data-sub-html="<h2>Representación de 100 tiradas de 1d100, en donde el resultado es igual o menor al valor de dificultad.</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/1d100.jpg"
-            data-srcset="/img/content/1d100.jpg, /img/content/1d100.jpg 1.5x, /img/content/1d100.jpg 2x"
+            data-src="/img/content/1d100.webp"
+            data-srcset="/img/content/1d100.webp, /img/content/1d100.webp 1.5x, /img/content/1d100.webp 2x"
             data-sizes="auto"
-            alt="/img/content/1d100.jpg" />
+            alt="/img/content/1d100.webp" />
     </a><figcaption class="image-caption">Representación de 100 tiradas de 1d100, en donde el resultado es igual o menor al valor de dificultad.</figcaption>
     </figure>
 <p>El uso del d100 es conocido por ser simple y fácil de entender, puesto que se basa en probabilidad: si tienes una habilidad con 65 puntos tendrás 65% de probabilidad de tener éxito.</p>
@@ -222,14 +224,14 @@
 <p>En Quimera el d20 se usa de una manera diferente que en la mayoría de sistemas que lo ocupan, aquí más bien funciona similar al d100, puesto que al hacer Tiradas de Recuperación el resultado se comparará con el nivel de Estrés, buscando ser igual o mayor.</p>
 <p>En este sentido, la probabilidad de éxito varía igualmente en una curva, resultando en que sea fácil curarse cuando no se está muy mal y que sea complicado cuando el daño es severo, justo como en la vida real.</p>
 <br>
-<figure><a class="lightgallery" href="/img/content/1d20q.jpg" title="/img/content/1d20q.jpg" data-thumbnail="/img/content/1d20q.jpg" data-sub-html="<h2>Representación de 100 tiradas de 1d20 en donde el resultado es igual o mayor al valor.</h2>">
+<figure><a class="lightgallery" href="/img/content/1d20q.webp" title="/img/content/1d20q.webp" data-thumbnail="/img/content/1d20q.webp" data-sub-html="<h2>Representación de 100 tiradas de 1d20 en donde el resultado es igual o mayor al valor.</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/1d20q.jpg"
-            data-srcset="/img/content/1d20q.jpg, /img/content/1d20q.jpg 1.5x, /img/content/1d20q.jpg 2x"
+            data-src="/img/content/1d20q.webp"
+            data-srcset="/img/content/1d20q.webp, /img/content/1d20q.webp 1.5x, /img/content/1d20q.webp 2x"
             data-sizes="auto"
-            alt="/img/content/1d20q.jpg" />
+            alt="/img/content/1d20q.webp" />
     </a><figcaption class="image-caption">Representación de 100 tiradas de 1d20 en donde el resultado es igual o mayor al valor.</figcaption>
     </figure>
 <h3 id="uso-del-3dtq">Uso del 3d<em>TQ</em></h3>
@@ -240,34 +242,34 @@
 <p>Y, por último pero no menos importante, el hecho de utilizar tres dados del mismo tamaño dio pie a una nueva mecánica: las ventajas y desventajas.  Permitiendo mayor flexibilidad en resultados y situaciones.</p>
 <p>En las siguientes gráficas puede verse el balance que presenta este tipo de tiradas y la clara diferencia entre que la tirada sea normal (3d8m), con ventaja (3d8a) o desventaja (3d8b):</p>
 <br>
-<figure><a class="lightgallery" href="/img/content/3d8m.jpg" title="/img/content/3d8m.jpg" data-thumbnail="/img/content/3d8m.jpg" data-sub-html="<h2>Resultados de 100 tiradas de 3d8 en donde el valor final es el intermedio</h2>">
+<figure><a class="lightgallery" href="/img/content/3d8m.webp" title="/img/content/3d8m.webp" data-thumbnail="/img/content/3d8m.webp" data-sub-html="<h2>Resultados de 100 tiradas de 3d8 en donde el valor final es el intermedio</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/3d8m.jpg"
-            data-srcset="/img/content/3d8m.jpg, /img/content/3d8m.jpg 1.5x, /img/content/3d8m.jpg 2x"
+            data-src="/img/content/3d8m.webp"
+            data-srcset="/img/content/3d8m.webp, /img/content/3d8m.webp 1.5x, /img/content/3d8m.webp 2x"
             data-sizes="auto"
-            alt="/img/content/3d8m.jpg" />
+            alt="/img/content/3d8m.webp" />
     </a><figcaption class="image-caption">Resultados de 100 tiradas de 3d8 en donde el valor final es el intermedio</figcaption>
     </figure>
-<figure><a class="lightgallery" href="/img/content/3d8a.jpg" title="/img/content/3d8a.jpg" data-thumbnail="/img/content/3d8a.jpg" data-sub-html="<h2>Resultados de 100 tiradas de 3d8 en donde el valor final es el más alto (Ventaja)</h2>">
+<figure><a class="lightgallery" href="/img/content/3d8a.webp" title="/img/content/3d8a.webp" data-thumbnail="/img/content/3d8a.webp" data-sub-html="<h2>Resultados de 100 tiradas de 3d8 en donde el valor final es el más alto (Ventaja)</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/3d8a.jpg"
-            data-srcset="/img/content/3d8a.jpg, /img/content/3d8a.jpg 1.5x, /img/content/3d8a.jpg 2x"
+            data-src="/img/content/3d8a.webp"
+            data-srcset="/img/content/3d8a.webp, /img/content/3d8a.webp 1.5x, /img/content/3d8a.webp 2x"
             data-sizes="auto"
-            alt="/img/content/3d8a.jpg" />
+            alt="/img/content/3d8a.webp" />
     </a><figcaption class="image-caption">Resultados de 100 tiradas de 3d8 en donde el valor final es el más alto (Ventaja)</figcaption>
     </figure>
-<figure><a class="lightgallery" href="/img/content/3d8b.jpg" title="/img/content/3d8b.jpg" data-thumbnail="/img/content/3d8b.jpg" data-sub-html="<h2>Resultados de 100 tiradas de 3d8 en donde el valor final es el más bajo (Desventaja)</h2>">
+<figure><a class="lightgallery" href="/img/content/3d8b.webp" title="/img/content/3d8b.webp" data-thumbnail="/img/content/3d8b.webp" data-sub-html="<h2>Resultados de 100 tiradas de 3d8 en donde el valor final es el más bajo (Desventaja)</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/img/content/3d8b.jpg"
-            data-srcset="/img/content/3d8b.jpg, /img/content/3d8b.jpg 1.5x, /img/content/3d8b.jpg 2x"
+            data-src="/img/content/3d8b.webp"
+            data-srcset="/img/content/3d8b.webp, /img/content/3d8b.webp 1.5x, /img/content/3d8b.webp 2x"
             data-sizes="auto"
-            alt="/img/content/3d8b.jpg" />
+            alt="/img/content/3d8b.webp" />
     </a><figcaption class="image-caption">Resultados de 100 tiradas de 3d8 en donde el valor final es el más bajo (Desventaja)</figcaption>
     </figure>
 <h3 id="uso-de-puntos-de-giro-pg">Uso de Puntos de Giro (PG)</h3>
@@ -294,7 +296,7 @@
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/quimera/">Quimera</a>,&nbsp;<a href="/tags/sistemas-de-rol/">Sistemas De Rol</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">Regresar</a></span>&nbsp;|&nbsp;<span><a href="/">Inicio</a></span>
         </section>
