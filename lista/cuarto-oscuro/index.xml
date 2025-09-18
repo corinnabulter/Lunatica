@@ -3,7 +3,15 @@
         <title>Cuarto-Oscuro - Categoría - Lunática</title>
         <link>http://localhost:1313/lista/cuarto-oscuro/</link>
         <description>Cuarto-Oscuro - Categoría - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 28 Aug 2025 16:21:24 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/lista/cuarto-oscuro/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 18 Sep 2025 14:47:59 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/lista/cuarto-oscuro/" rel="self" type="application/rss+xml" /><item>
+    <title>Vacío</title>
+    <link>http://localhost:1313/cuarto-oscuro/vacio/</link>
+    <pubDate>Thu, 18 Sep 2025 14:47:59 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/cuarto-oscuro/vacio/</guid>
+    <description><![CDATA[En el mundo animal el ser humano es quizás el único que, en lugar de adaptarse al entorno, adapta el entorno a sí con el fin de la supervivencia. La arquitectura es la evidencia física resultante de nuestra adaptación como especie, un vestigio de nuestro paso por el mundo que dibuja no sólo en dónde han habido asentamientos, sino qué tipo de vida se llavaba, el nivel económico y clase social, las necesidades, el estilo artístico de la época, simbolismos culturales e incluso la influencia política.]]></description>
+</item>
+<item>
     <title>Entre la Vida y la Muerte</title>
     <link>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</link>
     <pubDate>Thu, 28 Aug 2025 16:21:24 &#43;0200</pubDate>

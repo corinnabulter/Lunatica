@@ -2,14 +2,17 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://localhost:1313/tags/abandono/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/arquitectura/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/lista/cuarto-oscuro/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/lista/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/cuarto-oscuro/vacio/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/lista/letras/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/letras/no-soy/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/poes%C3%ADa/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/poes%C3%ADa-e-identidad/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/verso/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/cuarto-oscuro/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/tags/dicotom%C3%ADas/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/cuarto-oscuro/</loc><lastmod>2025-08-05T16:44:35&#43;02:00</lastmod></url><url>

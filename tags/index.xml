@@ -3,7 +3,23 @@
         <title>Tags - Etiqueta - Lunática</title>
         <link>http://localhost:1313/tags/</link>
         <description>Tags - Etiqueta - Lunática</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 08 Sep 2025 15:05:36 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 18 Sep 2025 14:47:59 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Abandono</title>
+    <link>http://localhost:1313/tags/abandono/</link>
+    <pubDate>Thu, 18 Sep 2025 14:47:59 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/tags/abandono/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Arquitectura</title>
+    <link>http://localhost:1313/tags/arquitectura/</link>
+    <pubDate>Thu, 18 Sep 2025 14:47:59 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/tags/arquitectura/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Poesía</title>
     <link>http://localhost:1313/tags/poes%C3%ADa/</link>
     <pubDate>Mon, 08 Sep 2025 15:05:36 &#43;0200</pubDate>
@@ -65,22 +81,6 @@
     <pubDate>Tue, 17 Sep 2024 00:00:00 &#43;0000</pubDate>
     <author>Lunática</author>
     <guid>http://localhost:1313/tags/poes%C3%ADa-rolera/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Quimera</title>
-    <link>http://localhost:1313/tags/quimera/</link>
-    <pubDate>Thu, 12 Sep 2024 18:39:43 &#43;0200</pubDate>
-    <author>Lunática</author>
-    <guid>http://localhost:1313/tags/quimera/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Sistemas De Rol</title>
-    <link>http://localhost:1313/tags/sistemas-de-rol/</link>
-    <pubDate>Thu, 12 Sep 2024 18:39:43 &#43;0200</pubDate>
-    <author>Lunática</author>
-    <guid>http://localhost:1313/tags/sistemas-de-rol/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

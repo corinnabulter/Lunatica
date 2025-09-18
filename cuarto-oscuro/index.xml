@@ -6,8 +6,15 @@
     <description>Recent content in Cuarto Oscuro on Lunática</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 14:47:59 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/cuarto-oscuro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vacío</title>
+      <link>http://localhost:1313/cuarto-oscuro/vacio/</link>
+      <pubDate>Thu, 18 Sep 2025 14:47:59 +0200</pubDate>
+      <guid>http://localhost:1313/cuarto-oscuro/vacio/</guid>
+      <description>Aquí se presentan fotografías que capturan espacios en abandono, reflejando la atemporalidad de nuestra estancia en el mundo que habitamos.</description>
+    </item>
     <item>
       <title>Entre la Vida y la Muerte</title>
       <link>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</link>

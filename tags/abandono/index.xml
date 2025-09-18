@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Abandono - Etiqueta - Lunática</title>
+        <link>http://localhost:1313/tags/abandono/</link>
+        <description>Abandono - Etiqueta - Lunática</description>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 18 Sep 2025 14:47:59 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/abandono/" rel="self" type="application/rss+xml" /><item>
+    <title>Vacío</title>
+    <link>http://localhost:1313/cuarto-oscuro/vacio/</link>
+    <pubDate>Thu, 18 Sep 2025 14:47:59 &#43;0200</pubDate>
+    <author>Lunática</author>
+    <guid>http://localhost:1313/cuarto-oscuro/vacio/</guid>
+    <description><![CDATA[Aquí se presentan fotografías que capturan espacios en abandono, reflejando la atemporalidad de nuestra estancia en el mundo que habitamos.]]></description>
+</item>
+</channel>
+</rss>
