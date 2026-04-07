@@ -1,54 +1,155 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>http://localhost:1313/tags/abandono/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/arquitectura/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/cuarto-oscuro/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/cuarto-oscuro/vacio/</loc><lastmod>2025-09-18T14:47:59&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/letras/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/no-soy/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/poes%C3%ADa/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/poes%C3%ADa-e-identidad/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/verso/</loc><lastmod>2025-09-08T15:05:36&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/dicotom%C3%ADas/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/cuarto-oscuro/vida-y-muerte/</loc><lastmod>2025-09-05T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/cuarto-oscuro/</loc><lastmod>2025-08-05T16:44:35&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/me-tengo-miedo/</loc><lastmod>2025-07-17T16:52:33&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/el-color-de-mi-odio/</loc><lastmod>2025-07-17T16:51:35&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/poes%C3%ADa-y-duelo/</loc><lastmod>2025-07-17T16:51:35&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/poes%C3%ADa-y-tiempo/</loc><lastmod>2024-09-18T10:52:23&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/si-me-dijera/</loc><lastmod>2024-09-18T10:52:23&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/arte-rolero/</loc><lastmod>2024-09-17T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/rol/arte-rolero/</loc><lastmod>2024-09-17T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/poes%C3%ADa-rolera/</loc><lastmod>2024-09-17T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/rol/</loc><lastmod>2025-01-28T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/quimera/</loc><lastmod>2025-01-28T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/rol/quimera-guia-oraculo/</loc><lastmod>2024-09-13T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/sistemas-de-rol/</loc><lastmod>2025-01-28T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/rol/quimera-manual/</loc><lastmod>2025-01-22T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/rol/que-es-quimera/</loc><lastmod>2024-09-13T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/distancia-entre-el-presente-y-el-pasado/</loc><lastmod>2024-09-09T10:23:11&#43;02:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/fragilidad/</loc><lastmod>2024-09-06T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/nicole-la-poeta/</loc><lastmod>2024-09-06T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/abismo/</loc><lastmod>2024-09-05T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/poes%C3%ADa-y-sociedad/</loc><lastmod>2024-09-05T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/</loc><lastmod>2024-09-05T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/rol/</loc><lastmod>2024-09-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/chorito/</loc><lastmod>2024-09-05T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/about/</loc><lastmod>2024-09-09T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/cuentos-de-noche/</loc><lastmod>2024-08-19T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/de-cuerda-cordura/</loc><lastmod>2024-08-19T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-08-17T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/lista/chorito/</loc><lastmod>2024-09-02T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/chorito/deutschesprachel%C3%A4ngezusammengesetztew%C3%B6rtereffizienzpraxisparadox/</loc><lastmod>2024-09-01T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/idiomas/</loc><lastmod>2024-09-01T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/ling%C3%BC%C3%ADstica/</loc><lastmod>2024-09-02T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/sin-titulo/</loc><lastmod>2024-08-16T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/rol/nicole-la-poeta/</loc><lastmod>2024-08-16T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/personajes-de-rol/</loc><lastmod>2024-08-16T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/letras/mientras-la-entrevista-de-lyla/</loc><lastmod>2024-08-16T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/chorito/que-es-chorito/</loc><lastmod>2024-09-02T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/rol/quimera/</loc><lastmod>2025-01-28T00:00:00&#43;00:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lunati.ca/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lunati.ca/</loc>
+</url>
+<url>
+<loc>https://lunati.ca/abismo.html</loc>
+<lastmod>2026-04-05T14:53:31+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/about.html</loc>
+<lastmod>2026-04-05T15:15:27+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/8/Lua.webp</image:loc>
+<image:title><![CDATA[Autorretrato en tinta. Autora: Lua Corinna]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lunati.ca/arte-rolero.html</loc>
+<lastmod>2026-04-05T14:24:02+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/chorito.html</loc>
+<lastmod>2026-04-04T17:43:02+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/cuentos-de-noche.html</loc>
+<lastmod>2026-04-05T14:32:54+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/de-cuerda-cordura.html</loc>
+<lastmod>2026-04-05T14:31:10+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/deutschesprachelaengezusammengesetztewoertereffizienzpraxisparadox.html</loc>
+<lastmod>2026-04-04T18:13:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/el-color-de-mi-odio.html</loc>
+<lastmod>2026-04-05T14:49:24+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/fragilidad.html</loc>
+<lastmod>2026-04-05T14:45:23+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/la-distancia-entre-el-presente-y-el-pasado-es-mas-bien-acumulativa-no-relativa.html</loc>
+<lastmod>2026-04-05T14:46:47+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/letras.html</loc>
+<lastmod>2026-04-04T17:56:31+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/me-tengo-miedo.html</loc>
+<lastmod>2026-04-05T16:25:55+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/mientras-la-entrevista-de-lyla.html</loc>
+<lastmod>2026-04-05T13:58:55+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/nicole-la-poeta.html</loc>
+<lastmod>2026-04-05T15:13:16+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/10/Nicole-2.webp</image:loc>
+<image:title><![CDATA[Ilustración en tinta de la personaje &quot;Nicole&quot;. Autora: Lua Corinna]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lunati.ca/no-soy.html</loc>
+<lastmod>2026-04-05T16:28:46+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/que-es-chorito.html</loc>
+<lastmod>2026-04-05T14:28:16+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/que-es-quimera.html</loc>
+<lastmod>2026-04-05T15:14:28+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/12/Quimera_Logo-2.png</image:loc>
+<image:title><![CDATA[Logo de Quimera]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/1d20.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/2d6.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/1d6+1d8.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/1d100.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/1d20q.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/3d8m.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/3d8a.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lunati.ca/img/content/3d8b.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lunati.ca/quimera-guia-para-le-oraculo.html</loc>
+<lastmod>2026-04-05T15:12:15+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/14/Quimera_Logo-2.png</image:loc>
+<image:title><![CDATA[Logo de Quimera]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lunati.ca/quimera-manual-en-linea.html</loc>
+<lastmod>2026-04-05T15:11:37+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/13/Quimera_Logo-2.png</image:loc>
+<image:title><![CDATA[Logo de Quimera]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lunati.ca/quimera.html</loc>
+<lastmod>2026-04-05T15:10:24+02:00</lastmod>
+<image:image>
+<image:loc>https://lunati.ca/media/posts/5/Quimera_Logo-2.png</image:loc>
+<image:title><![CDATA[Logo de Quimera]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lunati.ca/rol.html</loc>
+<lastmod>2026-04-03T14:08:50+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/si-me-dijera.html</loc>
+<lastmod>2026-04-05T14:47:54+02:00</lastmod>
+</url>
+<url>
+<loc>https://lunati.ca/sin-titulo.html</loc>
+<lastmod>2026-04-05T13:59:13+02:00</lastmod>
+</url>
+</urlset>
