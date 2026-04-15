@@ -3,12 +3,60 @@
     <title>Lunática</title>
     <link href="https://lunati.ca/feed.xml" rel="self" />
     <link href="https://lunati.ca" />
-    <updated>2026-04-05T16:28:46+02:00</updated>
+    <updated>2026-04-15T11:20:39+02:00</updated>
     <author>
         <name>Lua Corinna</name>
     </author>
     <id>https://lunati.ca</id>
 
+    <entry>
+        <title>Color Vacío</title>
+        <author>
+            <name>Lua Corinna</name>
+        </author>
+        <link href="https://lunati.ca/color-vacio.html"/>
+        <id>https://lunati.ca/color-vacio.html</id>
+            <category term="Verso"/>
+            <category term="Poesía y Duelo"/>
+            <category term="Poesía e Identidad"/>
+            <category term="Poesía"/>
+            <category term="Letras"/>
+
+        <updated>2026-04-15T11:20:39+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    No sé en qué partes o qué he estado buscando, o si es que en este momento sigo tras algo, lo que sé es que no lo he encontrado. Mis ojos pasean ya en automático cada hueco de la ciudad, espacios vacíos en colores graffiti,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <pre class="poem">No sé en qué partes o qué he estado buscando,
+o si es que en este momento sigo tras algo,
+lo que sé es que no lo he encontrado.
+
+Mis ojos pasean ya en automático cada hueco de la ciudad,
+espacios vacíos en colores graffiti, polvo y aliento olvidado.
+Por cada espacio inexplorado al cuál mis sentidos se aventuran
+encuentro no más que otro sitio donde no está,
+aquello nunca está.
+
+Será que busco una respuesta, un recuerdo perdido,
+la emoción que alguna vez acarició mi piel,	 o será
+que aquello que busco es el reflejo de mi rostro grabado en la tierra,
+el sonido de mi voz entre sombra y sombra de las ramas que quiebran,
+el calor de mi piel, 	el ritmo de mi latido,
+el halo de una sonrisa		 o llanto 		o algo		 que me indique sigo viva.
+
+No es casualidad que me encuentre arrinconada,
+almacenada en una suerte de silencio sin salida de emergencia.
+Grito y desgárrome la voz, 		hiervo en mi tos,
+no tengo esperanza ni sueño ni concepto de Dios.
+No escucho eco, no hay húmedo ni seco,
+maldita sea, ni siquiera hay a quién decirle adiós.
+</pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>No Soy</title>
         <author>
@@ -1434,63 +1482,6 @@ Mis ojos áridos se cierran en un momento,
 era de esperar no esperar en el tormento.
 
 Mis ojos cálidos nacen de nuevo,</pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fragilidad</title>
-        <author>
-            <name>Lua Corinna</name>
-        </author>
-        <link href="https://lunati.ca/fragilidad.html"/>
-        <id>https://lunati.ca/fragilidad.html</id>
-            <category term="Verso"/>
-            <category term="Poesía Rolera"/>
-            <category term="Poesía"/>
-            <category term="Nicole, la Poeta"/>
-            <category term="Letras"/>
-
-        <updated>2024-09-06T14:44:00+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    El error mental me acecha, desolada y ebria de nuevo, víctima y vulnerable de nuevo. Los feroces colmillos no son la causa de mi miedo, no. Conozco ya la mirada que acecha, me es familiar ese rostro que se relame, me mira tan solo como&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <pre class="poem">El error mental me acecha,
-desolada y ebria de nuevo,
-víctima y vulnerable de nuevo.
-
-Los feroces colmillos no son la causa de mi miedo,
-no.
-Conozco ya la mirada que acecha,
-me es familiar ese rostro que se relame,
-me mira tan solo como un pedazo de carne,
-la saliva y los ojos depredantes,
-no son diferentes a los de antes.
-
-¿Cuántos años han pasado ya?  
-¿Cuántos amos de mí se han creído?  
-¿Cuántos dientes?  
-¿Cuántos sonrientes?  
-¿Cuántas veces sin preguntarme: qué es lo que sientes?
-
-El miedo no deviene de los colmillos y la sed de sangre,
-no.
-El miedo nace de sentirme bagre,
-de saber que esta mierda no termina,
-no respira,
-no pausa.
-
-Mas ahora encuentro una pequeña causa
-para seguir.
-Una tenue luz me dice: avanza.
-Cuatro,
-cuatro destellos me sostienen en balsa.
-</pre>
-<hr>
-<p>Este forma parte de un conjunto de poemas escritos desde la perspectiva de un personaje de rol llamada Nicole, si quieres saber más te invito a leer <a href="https://lunati.ca/nicole-la-poeta.html">Nicole, la poeta</a>.</p>
             ]]>
         </content>
     </entry>

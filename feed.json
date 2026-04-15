@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://lunati.ca/color-vacio.html",
+            "url": "https://lunati.ca/color-vacio.html",
+            "title": "Color Vacío",
+            "summary": "No sé en qué partes o qué he estado buscando, o si es que en este momento sigo tras algo, lo que sé es que no lo he encontrado. Mis ojos pasean ya en automático cada hueco de la ciudad, espacios vacíos en colores graffiti,&hellip;",
+            "content_html": "<pre class=\"poem\">No sé en qué partes o qué he estado buscando,\no si es que en este momento sigo tras algo,\nlo que sé es que no lo he encontrado.\n\nMis ojos pasean ya en automático cada hueco de la ciudad,\nespacios vacíos en colores graffiti, polvo y aliento olvidado.\nPor cada espacio inexplorado al cuál mis sentidos se aventuran\nencuentro no más que otro sitio donde no está,\naquello nunca está.\n\nSerá que busco una respuesta, un recuerdo perdido,\nla emoción que alguna vez acarició mi piel,\t o será\nque aquello que busco es el reflejo de mi rostro grabado en la tierra,\nel sonido de mi voz entre sombra y sombra de las ramas que quiebran,\nel calor de mi piel, \tel ritmo de mi latido,\nel halo de una sonrisa\t\t o llanto \t\to algo\t\t que me indique sigo viva.\n\nNo es casualidad que me encuentre arrinconada,\nalmacenada en una suerte de silencio sin salida de emergencia.\nGrito y desgárrome la voz, \t\thiervo en mi tos,\nno tengo esperanza ni sueño ni concepto de Dios.\nNo escucho eco, no hay húmedo ni seco,\nmaldita sea, ni siquiera hay a quién decirle adiós.\n</pre>",
+            "author": {
+                "name": "Lua Corinna"
+            },
+            "tags": [
+                   "Verso",
+                   "Poesía y Duelo",
+                   "Poesía e Identidad",
+                   "Poesía",
+                   "Letras"
+            ],
+            "date_published": "2026-04-15T11:20:39+02:00",
+            "date_modified": "2026-04-15T11:20:39+02:00"
+        },
+        {
             "id": "https://lunati.ca/no-soy.html",
             "url": "https://lunati.ca/no-soy.html",
             "title": "No Soy",
@@ -168,25 +187,6 @@
             ],
             "date_published": "2024-09-09T14:46:00+02:00",
             "date_modified": "2026-04-05T14:46:47+02:00"
-        },
-        {
-            "id": "https://lunati.ca/fragilidad.html",
-            "url": "https://lunati.ca/fragilidad.html",
-            "title": "Fragilidad",
-            "summary": "El error mental me acecha, desolada y ebria de nuevo, víctima y vulnerable de nuevo. Los feroces colmillos no son la causa de mi miedo, no. Conozco ya la mirada que acecha, me es familiar ese rostro que se relame, me mira tan solo como&hellip;",
-            "content_html": "<pre class=\"poem\">El error mental me acecha,\ndesolada y ebria de nuevo,\nvíctima y vulnerable de nuevo.\n\nLos feroces colmillos no son la causa de mi miedo,\nno.\nConozco ya la mirada que acecha,\nme es familiar ese rostro que se relame,\nme mira tan solo como un pedazo de carne,\nla saliva y los ojos depredantes,\nno son diferentes a los de antes.\n\n¿Cuántos años han pasado ya?  \n¿Cuántos amos de mí se han creído?  \n¿Cuántos dientes?  \n¿Cuántos sonrientes?  \n¿Cuántas veces sin preguntarme: qué es lo que sientes?\n\nEl miedo no deviene de los colmillos y la sed de sangre,\nno.\nEl miedo nace de sentirme bagre,\nde saber que esta mierda no termina,\nno respira,\nno pausa.\n\nMas ahora encuentro una pequeña causa\npara seguir.\nUna tenue luz me dice: avanza.\nCuatro,\ncuatro destellos me sostienen en balsa.\n</pre>\n<hr>\n<p>Este forma parte de un conjunto de poemas escritos desde la perspectiva de un personaje de rol llamada Nicole, si quieres saber más te invito a leer <a href=\"https://lunati.ca/nicole-la-poeta.html\">Nicole, la poeta</a>.</p>",
-            "author": {
-                "name": "Lua Corinna"
-            },
-            "tags": [
-                   "Verso",
-                   "Poesía Rolera",
-                   "Poesía",
-                   "Nicole, la Poeta",
-                   "Letras"
-            ],
-            "date_published": "2024-09-06T14:44:00+02:00",
-            "date_modified": "2026-04-05T14:45:23+02:00"
         }
     ]
 }
