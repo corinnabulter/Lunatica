@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://lunati.ca/sangre-distante.html",
+            "url": "https://lunati.ca/sangre-distante.html",
+            "title": "Sangre distante",
+            "summary": "Sangre distante, corazón constante, el río me besa los pies y bríndame pedacito de sueño, casi un recuerdo, me quedo atrapada entre tantas eternas letras descubiertas en un instante, mi regalo al regalo con el que me has despertado, descúbrote y sé nunca había amado,&hellip;",
+            "content_html": "<pre class=\"poem\">Sangre distante,<br>corazón constante,<br>el río me besa los pies y bríndame pedacito de sueño,<br>casi un recuerdo,<br>me quedo atrapada entre tantas eternas letras descubiertas en un instante,<br>mi regalo al regalo con el que me has despertado,<br>descúbrote y sé nunca había amado,<br>profeso verdad,<br>entrégote mi cielo,<br>alcanzo aquello inalcanzable,<br>ámote creatura inefable,<br>polilla que te busca - luz<br>de mi sangre incansable,<br>sangre distante,<br>corazón constante,</pre>",
+            "author": {
+                "name": "Lua Corinna"
+            },
+            "tags": [
+                   "Verso",
+                   "Poesía y Amor",
+                   "Poesía",
+                   "Letras"
+            ],
+            "date_published": "2026-06-03T13:46:49+02:00",
+            "date_modified": "2026-06-03T13:49:56+02:00"
+        },
+        {
             "id": "https://lunati.ca/color-vacio.html",
             "url": "https://lunati.ca/color-vacio.html",
             "title": "Color Vacío",
@@ -169,24 +187,6 @@
             ],
             "date_published": "2024-09-12T14:00:00+02:00",
             "date_modified": "2026-04-05T15:14:28+02:00"
-        },
-        {
-            "id": "https://lunati.ca/la-distancia-entre-el-presente-y-el-pasado-es-mas-bien-acumulativa-no-relativa.html",
-            "url": "https://lunati.ca/la-distancia-entre-el-presente-y-el-pasado-es-mas-bien-acumulativa-no-relativa.html",
-            "title": "La distancia entre el presente y el pasado es más bien acumulativa, no relativa",
-            "summary": "Mis ojos raídos en pálidos matices tristes, en tapiz liso de rostros grises. Mis ojos lejanos tan ocupados en la distancia que desviste, en reminiscencias sin tapujos, en tropiezos llenos de embrujos. Mis ojos pálidos que roen el pasado con hambre voraz, siendo y sin&hellip;",
-            "content_html": "<pre class=\"poem\">Mis ojos raídos en pálidos matices tristes,  \nen tapiz liso de rostros grises.\nMis ojos lejanos tan ocupados en la distancia que desviste,  \nen reminiscencias sin tapujos,  \nen tropiezos llenos de embrujos.\n\nMis ojos pálidos que roen el pasado con hambre voraz,  \nsiendo y sin ser de la iniciativa a cambio capaz.\nLloro y no veo detrás sino que rompo aquello que creí secreto,  \nme pierdo y no miento soy de mí ave rapaz.\n\nMis ojos inválidos me azotan con vista ciega,\npelea furiosa versus la consciencia niega,\nestoy cansada y yo me dice ya sosiega.\n\nMis ojos áridos se cierran en un momento,\nera de esperar no esperar en el tormento.\n\nMis ojos cálidos nacen de nuevo,</pre>",
-            "author": {
-                "name": "Lua Corinna"
-            },
-            "tags": [
-                   "Verso",
-                   "Poesía y Tiempo",
-                   "Poesía",
-                   "Letras"
-            ],
-            "date_published": "2024-09-09T14:46:00+02:00",
-            "date_modified": "2026-04-05T14:46:47+02:00"
         }
     ]
 }

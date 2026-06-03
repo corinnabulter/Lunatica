@@ -3,12 +3,36 @@
     <title>Lunática</title>
     <link href="https://lunati.ca/feed.xml" rel="self" />
     <link href="https://lunati.ca" />
-    <updated>2026-04-15T11:20:39+02:00</updated>
+    <updated>2026-06-03T13:49:56+02:00</updated>
     <author>
         <name>Lua Corinna</name>
     </author>
     <id>https://lunati.ca</id>
 
+    <entry>
+        <title>Sangre distante</title>
+        <author>
+            <name>Lua Corinna</name>
+        </author>
+        <link href="https://lunati.ca/sangre-distante.html"/>
+        <id>https://lunati.ca/sangre-distante.html</id>
+            <category term="Verso"/>
+            <category term="Poesía y Amor"/>
+            <category term="Poesía"/>
+            <category term="Letras"/>
+
+        <updated>2026-06-03T13:46:49+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Sangre distante, corazón constante, el río me besa los pies y bríndame pedacito de sueño, casi un recuerdo, me quedo atrapada entre tantas eternas letras descubiertas en un instante, mi regalo al regalo con el que me has despertado, descúbrote y sé nunca había amado,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <pre class="poem">Sangre distante,<br>corazón constante,<br>el río me besa los pies y bríndame pedacito de sueño,<br>casi un recuerdo,<br>me quedo atrapada entre tantas eternas letras descubiertas en un instante,<br>mi regalo al regalo con el que me has despertado,<br>descúbrote y sé nunca había amado,<br>profeso verdad,<br>entrégote mi cielo,<br>alcanzo aquello inalcanzable,<br>ámote creatura inefable,<br>polilla que te busca - luz<br>de mi sangre incansable,<br>sangre distante,<br>corazón constante,</pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Color Vacío</title>
         <author>
@@ -1440,48 +1464,6 @@ al final
 <p>Quimera es un sistema que le da mucho peso a lo narrativo, es por esto que los resultados de los dados siempre se verán influenciados de acuerdo a la situación de cada personaje. La dificultad no se establece únicamente por el reto de la situación en sí, también se modifica dependiendo de qué tan estresado o dañado esté le personaje, si tiene heridas, algún trauma o simplemente ya está muy cansade. Además, si tiene éxito, el éxito también puede verse bonificado o perjudicado de acuerdo a su situación, su experiencia y su salud.</p>
 <hr>
 <p>Puedes descargar tanto las hojas de personaje como el manual de Quimera, en formatos PDF y EPUB en <a href="https://lunati.ca/quimera.html">la página inicial de Quimera </a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La distancia entre el presente y el pasado es más bien acumulativa, no relativa</title>
-        <author>
-            <name>Lua Corinna</name>
-        </author>
-        <link href="https://lunati.ca/la-distancia-entre-el-presente-y-el-pasado-es-mas-bien-acumulativa-no-relativa.html"/>
-        <id>https://lunati.ca/la-distancia-entre-el-presente-y-el-pasado-es-mas-bien-acumulativa-no-relativa.html</id>
-            <category term="Verso"/>
-            <category term="Poesía y Tiempo"/>
-            <category term="Poesía"/>
-            <category term="Letras"/>
-
-        <updated>2024-09-09T14:46:00+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Mis ojos raídos en pálidos matices tristes, en tapiz liso de rostros grises. Mis ojos lejanos tan ocupados en la distancia que desviste, en reminiscencias sin tapujos, en tropiezos llenos de embrujos. Mis ojos pálidos que roen el pasado con hambre voraz, siendo y sin&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <pre class="poem">Mis ojos raídos en pálidos matices tristes,  
-en tapiz liso de rostros grises.
-Mis ojos lejanos tan ocupados en la distancia que desviste,  
-en reminiscencias sin tapujos,  
-en tropiezos llenos de embrujos.
-
-Mis ojos pálidos que roen el pasado con hambre voraz,  
-siendo y sin ser de la iniciativa a cambio capaz.
-Lloro y no veo detrás sino que rompo aquello que creí secreto,  
-me pierdo y no miento soy de mí ave rapaz.
-
-Mis ojos inválidos me azotan con vista ciega,
-pelea furiosa versus la consciencia niega,
-estoy cansada y yo me dice ya sosiega.
-
-Mis ojos áridos se cierran en un momento,
-era de esperar no esperar en el tormento.
-
-Mis ojos cálidos nacen de nuevo,</pre>
             ]]>
         </content>
     </entry>
