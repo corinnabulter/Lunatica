@@ -11,6 +11,26 @@
     },
     "items": [
         {
+            "id": "https://lunati.ca/no-me-salvo.html",
+            "url": "https://lunati.ca/no-me-salvo.html",
+            "title": "No me salvo",
+            "summary": "no me salvo, ni aquí ni nunca · profano el banco de recuerdos y sabores y conceptos de lo que supone significar mi Nombre · tanto mi vivo nombre como el ya fallecido nombre • desvístome ante el juicio en el que arderá mi carne&hellip;",
+            "content_html": "<pre class=\"poem\">no me salvo, ni aquí ni nunca · profano el banco de recuerdos y sabores y conceptos de lo que supone significar mi Nombre · tanto mi vivo nombre como el ya fallecido nombre • desvístome ante el juicio en el que arderá mi carne · no me salvo_no me salvo · no me aferro al Vacío ni desgarro de uñas abiertas · no existen esperanzas ni sueños en un cuerpo largamente muerto · todo aquello habita un lugar lejano, un sitio Allá en donde la ilusión del tiempo y la materia no son más que pura viciosa fantasía · un punto Allá en donde lo que pulsa el corazón es lo único que existe · un Algo innombrable · Color ante mis ojos inefable ~\n\npuedo sentir lento · cómo las hojas secas dibujan cada nuevo recoveco · y el musgo que en mi piel crece · y las miradas de odio que día con día me he ido ganando • puedo sentir lento • puedo sentir el vacío vicio y el rencor callado · me estremece el ruido del silencio y la sangre que corre · y el pulso distante entre estrella y estrella que me dice: Todo ha valido la pena ~ por eso no me salvo · porque después de tantos pasos y tantas lágrimas y tantos porqués y tantos no-entiendo no-entiendo · entendí · que no se trata de conocer ni hacer y tampoco de placer · es Algo mucho más fino y delgado, algo vulnerable y con olor a sangre · se trata de un pulso ulterior · del Gran Abismo · de gravedad y micelio · de amor y color y sabor y sepa quién cuántos interminables sustantivos que simplemente nunca dibujarán auquél Todo-y-Nada de lo que Aquello habla · pero lo sé y lo siento, y es por eso que ~ <br><br>no me salvo · cedo mi peso y me dejo caer • no · es más que eso • vuelo en retroceso en busca de aquel punto de partida · sucumbo ante la posibilidad de una inexistente puerta de salida · me entrego · muero · sé a dónde me dirijo • desafío las creencias y saberes · reto enfrento principios de lógica e innegable materia · deshebro mi piel · expongo mi hiel · me entrego de la forma más honesta que conozco · muero y no muero así como puedo · por eso, Color, por eso es que ~\n</pre>",
+            "author": {
+                "name": "Corinna Bülter"
+            },
+            "tags": [
+                   "Prosa",
+                   "Poesía y Ontología",
+                   "Poesía y Duelo",
+                   "Poesía y Amor",
+                   "Poesía",
+                   "Letras"
+            ],
+            "date_published": "2026-09-16T14:04:00+02:00",
+            "date_modified": "2026-09-16T18:51:01+02:00"
+        },
+        {
             "id": "https://lunati.ca/aquello-de-cada-dia.html",
             "url": "https://lunati.ca/aquello-de-cada-dia.html",
             "title": "Aquello de cada día",
@@ -172,25 +192,6 @@
             ],
             "date_published": "2025-07-17T14:48:00+02:00",
             "date_modified": "2026-04-05T14:49:24+02:00"
-        },
-        {
-            "id": "https://lunati.ca/si-me-dijera.html",
-            "url": "https://lunati.ca/si-me-dijera.html",
-            "title": "Si me dijera",
-            "summary": "Si me dijera a mí misma, y mas no me refiero mi misma sino más que mi mímesis, aquella del tiempo de ayer o antier o lo que sea, aquella yo que llora aún en su habitación, triste y sola. Si me dijera que entre&hellip;",
-            "content_html": "<pre class=\"poem\">Si me dijera a mí misma,\ny mas no me refiero mi misma sino más que mi mímesis,\n\naquella del tiempo de ayer o antier o lo que sea,\naquella yo que llora aún en su habitación, triste y sola.\n\nSi me dijera que\nentre los parpadeos del hoy no hay más rastro de ese ayer,\nsi me dijeraqueme quemé\nentre brasas deloque soñaba con dolor pornó poder ser,\ny sin embargo\nsi me dijeraque - hoy siempre sí - entonces qué.\n\nEntonces qué,\nsime pudiera mostrar aquesho que qué seshó,\nun límite un tanto distante pero bien presente,\nsi me pudieran sobrar los ojos que ven sin normas ni nornas del tiempo,\n- entonces qué.\n\nY me digo que qué porque sé que cambié,\nporque sé que entre ayer y esta muerte no hay más que un ligero fueté,\nporque nome importa ya gastarme las palabras con rimas baratas,\nde a tres por diez ¿cuántas va a querer?\n\nY si pudiera y me encontrara,\ny viajara a los momentos de angustia y el nudo en la garganta\ny el dolor de cabeza y las ganas de irme\ny el llanto y el me odio\ny las ganas de irme.\n\nSi pudiera y me dijera - entonces qué\n¿me creería?\n¿algo cambiaría?\n\nMe sé que ese duelo lo tuve que tener,\nque siento hoy necesaria sentirme perdida entre la pérdida\ncon estima podrida y cerca de ser sórbida\n¿pero acaso había que ser?\n¿estar cerca de ceder?\n\nSi pudiera\ny fuera\ny me dijera,\nal final\n¿qué me diría?</pre>",
-            "author": {
-                "name": "Corinna Bülter"
-            },
-            "tags": [
-                   "Verso",
-                   "Poesía y Tiempo",
-                   "Poesía e Identidad",
-                   "Poesía",
-                   "Letras"
-            ],
-            "date_published": "2024-09-18T14:47:00+02:00",
-            "date_modified": "2026-04-05T14:47:54+02:00"
         }
     ]
 }
